@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @Asteriadeath (ezL)
 
   
-- 👀 I’m interested in working in python (student)
+- I’m interested in working in python, js, html and  css (student)
 
   
 - I’m currently learning python

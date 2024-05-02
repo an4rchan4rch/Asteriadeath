@@ -3,20 +3,13 @@
 
 
 
-- 👋 Hi, I’m @Asteriadeath (ezL)
+-  hi, i’m @asteriadeath (ezL)
 
   
-- I’m interested in working in python, js, html and  css (student)
+- i’m interested in working in python, js, html and  css (student)
 
   
-- I’m currently learning python
+- i’m currently learning python for my coding class and may act start making cool stuff ^^
 
 
-- discord: asteriadeath_
-
-  
--  Pronouns: he/him
-
-
--  Fun fact: I'm friends with @vision69420
-
+ - links https://solo.to/leanskull

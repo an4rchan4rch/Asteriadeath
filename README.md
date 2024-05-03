@@ -16,3 +16,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-asteriadeath&color=green)
+![](https://github-readme-stats.vercel.app/api?username=asteriadeath&show_icons=true&theme=transparent)

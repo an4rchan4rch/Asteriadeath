@@ -20,3 +20,5 @@
 
 <p align="center">
   <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=Asteriadeath&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+    <img height="25" src="https://img.shields.io/github/stars/severityc?color=5c64f4&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+<img src="https://skillicons.dev/icons?i=py"/>

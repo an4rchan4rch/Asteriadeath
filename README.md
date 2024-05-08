@@ -18,4 +18,5 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=asteriadeath&show_icons=true&theme=transparent)
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=Asteriadeath&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>

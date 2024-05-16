@@ -8,7 +8,7 @@
 - i’m interested in working in python, js, html and  css (student)
 
   
-- i’m currently learning python for my coding class and may act start making cool stuff ^^
+- i’m currently learning python for my coding class and may act start making cool stuff (update: my coding class teacher cant learn code cuz he doesnt know how to code lmao)
 
 
 <p align="center">

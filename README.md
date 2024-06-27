@@ -6,9 +6,11 @@
 
 hi, i’m @asteriadeath (ezL)
 
-i’m interested in working in python, js, html and css (student)
+interested in working in python, js, html and css (student)
 
-i’m currently learning python, html and css
+currently learning python, html and css
+
+always tired lol
 
 <div align=center>
   

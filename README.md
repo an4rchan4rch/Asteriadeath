@@ -4,11 +4,11 @@
 
 
 
-hi, i’m @asteriadeath (ezL)
+hi, i’m @an4rchan4rch
 
-interested in working in python, js, html and css (student)
+interested in working in music (student)
 
-currently learning python, html and css
+currently learning in prod
 
 always tired lol
 
